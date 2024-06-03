@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/AndroidClient/AndroidClient.csproj
+/CustomUserManagerApi/appsettings.json
+/CustomUserManagerApi/Infrastructure_Layer/Migrations/20240425151339_CreateDB.cs
+/CustomUserManagerApi/Infrastructure_Layer/Migrations/UserDbContextModelSnapshot.cs
